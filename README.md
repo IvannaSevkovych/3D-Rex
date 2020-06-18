@@ -1,6 +1,6 @@
 # 3D-Rex
 ## Move the mouse and see the dino-magic!
-![3D-Rex](/preview/3D-Rex_preview.gif)
+![3D-Rex](/preview/3D-Rex_preview_512.gif)
 
 Many thanks to [Yuri Artyukh](https://www.youtube.com/user/flintyara) for his great youtube tutorials. This project is inspired by his videos.
 

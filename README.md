@@ -2,7 +2,7 @@
 ## Move the mouse and see the dino-magic!
 ![3D-Rex](/preview/3D-Rex_preview.gif)
 
-Many thanks to @akella for his great youtube tutorials. This project is inspired by his tutorials.
+Many thanks to [Yuri Artyukh](https://www.youtube.com/user/flintyara) for his great youtube tutorials. This project is inspired by his videos.
 
 Check out [ this project on my website](https://ivanna.sevkovych.com/portfolio_codes_rex.html)!
 
